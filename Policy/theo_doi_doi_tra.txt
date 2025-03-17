@@ -1,0 +1,15 @@
+﻿Làm thế nào để tôi có thể theo dõi đơn hàng đổi trả?
+Để có thể kiểm tra được thông tin đơn hàng đổi trả quý khách có thể thực hiện theo các bước sau:
+
+
+⭕Giao diện App
+
+
+Bước 1: Đăng nhập tài khoản Tiki, vào phần Tài khoản.
+Bước 2: Vào mục Đổi trả, chọn Chi tiết yêu cầu đơn hàng cần theo dõi.
+Tại đây, quý khách có thể xem được mã thu hồi, tình trạng đổi trả và thông tin thu hồi.
+ 
+⭕Giao diện Website
+Bước 1: Đăng nhập tài khoản Tiki, vào phần Tài khoản chọn Thông tin tài khoản..
+Bước 2: Vào mục Quản lý đổi trả để xem thông tin.
+Tại đây, quý khách có thể xem được mã thu hồi, tình trạng đổi trả và thông tin thu hồi.
