@@ -1,6 +1,0 @@
-﻿Tiki có xác nhận đơn hàng với tôi không?
-Sau khi đặt hàng thành công, Tiki sẽ gửi email xác nhận thông tin đơn hàng. Nhờ quý khách kiểm tra thông tin đơn hàng cụ thể trong email đặt hàng hoặc trong phần quản lý đơn hàng.
-
-
-⭕ Giao diện đặt hàng thành công
-⭕ Email thông báo

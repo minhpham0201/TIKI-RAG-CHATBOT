@@ -1,1 +1,0 @@
-GROQ_API = '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'
